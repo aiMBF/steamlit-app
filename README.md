@@ -11,7 +11,7 @@ Ce projet est une application interactive développée avec **Streamlit**, perme
 ✅ Classement des meilleurs clients avec leurs catégories de produits achetées
 ✅ Suivi de l'évolution des ventes au fil du temps
 
-## 📂 Structure des Données
+## Structure des Données
 Le fichier CSV doit contenir les colonnes suivantes (Cf: data/reatail_sales_dataset.csv) :
 
 | Colonne           | Description |
@@ -45,7 +45,7 @@ streamlit run app/app.py
 
 4. **Importer un fichier CSV** depuis l'interface et commencer l'analyse !
 
-## 📊 Exemples de Visualisations
+## Exemples de Visualisations
 - **Graphique des ventes au fil du temps** (courbe d'évolution du chiffre d'affaires)
 - **Répartition des ventes par catégorie de produit** (barres ou pie chart)
 - **Profil des clients** (distribution des âges et genre)
