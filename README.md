@@ -51,7 +51,10 @@ streamlit run app/app.py
 4. **Importer un fichier CSV** depuis l'interface et commencer l'analyse !
 
 ## Exemples de Visualisations
-- **Graphique des ventes au fil du temps** (courbe d'évolution du chiffre d'affaires)
+- **Graphique des ventes au fil du temps** (courbe d'évolution du chiffre d'affaires) 
+![ Graphique des Ventes](screenshots/statistiques.png)
 - **Répartition des ventes par catégorie de produit** (barres ou pie chart)
+![ Repartition des ventes](screenshots/repartition_vente_categorie.png)
 - **Profil des clients** (distribution des âges et genre)
 - **Top 10 clients** avec leurs dépenses et catégories de produits achetées
+![ Top 10 clients](screenshots/top_10_clients.png)
