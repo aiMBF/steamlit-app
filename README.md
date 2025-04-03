@@ -4,12 +4,12 @@
 Ce projet est une application interactive développée avec **Streamlit**, permettant d'analyser un dataset de transactions de vente. L'application permet aux analystes de données et aux gestionnaires de commerce de mieux comprendre les tendances de vente, le comportement des clients et les performances des produits.
 
 ## Fonctionnalités Principales
-✅ Importation et affichage des données CSV
-✅ Analyse du chiffre d'affaires total et des transactions
-✅ Visualisation des ventes par catégorie de produit
-✅ Analyse du profil des clients (âge, genre, comportement d'achat)
-✅ Classement des meilleurs clients avec leurs catégories de produits achetées
-✅ Suivi de l'évolution des ventes au fil du temps
+✅ Importation et affichage des données CSV \n
+✅ Analyse du chiffre d'affaires total et des transactions \n
+✅ Visualisation des ventes par catégorie de produit \n
+✅ Analyse du profil des clients (âge, genre, comportement d'achat) \n
+✅ Classement des meilleurs clients avec leurs catégories de produits achetées \n
+✅ Suivi de l'évolution des ventes au fil du temps \n
 
 ## Structure des Données
 Le fichier CSV doit contenir les colonnes suivantes (Cf: data/reatail_sales_dataset.csv) :
